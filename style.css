@@ -477,8 +477,18 @@ margin-top: 10px;
 .alex-icon img {
     padding: 10px 10px;
 }
-
-
+.foot {
+    padding: 40px 20px;
+    text-align: center;
+    justify-items: center;
+}
+.social-logo {
+    /* display: grid;
+    gap: 10px 0;
+    grid-template-columns: repeat(2, 170px); */
+    flex-wrap: wrap;
+    width: 70%;
+}
 
 
 
