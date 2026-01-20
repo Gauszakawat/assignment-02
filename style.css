@@ -451,5 +451,37 @@ margin-top: 10px;
     display: flex;
     flex-direction: column;
 }
+.you iframe{
+    width: 100%;
+}
+.you-text h5 {
+    font-size: 22px;}
+.Meet h1 {
+    font-size: 32px;
+}
+.Alex {
+  flex-direction: column;   
+}
+.alex-text {
+    text-align: center;
+    gap: 10px;
+}
+.alex-text h2 {
+    font-size: 24px;
+}
+.alex-icon {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.alex-icon img {
+    padding: 10px 10px;
+}
+
+
+
+
+
+
 
 }
