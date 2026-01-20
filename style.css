@@ -483,9 +483,7 @@ margin-top: 10px;
     justify-items: center;
 }
 .social-logo {
-    /* display: grid;
-    gap: 10px 0;
-    grid-template-columns: repeat(2, 170px); */
+    
     flex-wrap: wrap;
     width: 70%;
 }
